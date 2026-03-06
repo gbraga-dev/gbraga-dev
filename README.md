@@ -83,7 +83,7 @@ The system is designed to:
 * automation logic
 
 🔗 Repository
-https://github.com/gbraga-dev/ai-appointment-scheduler
+https://github.com/gbraga-dev/ai-appointment-automation
 
 ---
 
